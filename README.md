@@ -68,3 +68,4 @@ The dApp should look something like this
 
 ![final_dapp](https://github.com/Sushants-Git/demo-app/assets/100516354/bf939a2f-3ac1-40f6-882c-c779ee4928ee)
 
+# demo-dapp
